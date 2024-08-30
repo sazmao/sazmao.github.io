@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sazmao.github.io/sitemap/sitemap.nop.gz
